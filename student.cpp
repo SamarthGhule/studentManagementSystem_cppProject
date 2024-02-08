@@ -320,11 +320,11 @@ void deleteStudent(vector<Student>& students){
 
 }
 
-main(){
+int main(){
 
 	vector <Student> students;
 
-	students.push_back(Student(1,"ali",35));
+	students.push_back(Student(28,"Samarth",24));
 
 	char choice;
 
